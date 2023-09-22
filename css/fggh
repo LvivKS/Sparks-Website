@@ -1,0 +1,10 @@
+.extras{
+    position: absolute;
+    bottom: -150px;
+    right: -200px;
+    width: 50vw;
+    height: 50vw;
+    border-radius: 50%;
+    background-color: #549D96;
+    
+}
